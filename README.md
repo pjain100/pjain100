@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm [Your Name] 👋
+
+💻 I'm learning programming  
+🌱 Currently learning: Python / JavaScript  
+🚀 Goals: Become a software developer  
+
+## Skills
+- HTML
+- CSS
+- Python (beginner)
+
+## Projects
+- Coming soon!
